@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.amazon.utility.Listeners"/>
+    <listener class-name="com.amazon.utility.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.amazon.runner.Tests">
+        <methods>
+          <include name="closebrowser"/>
+          <include name="openbrowser"/>
+          <include name="searchproduct" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- com.amazon.runner.Tests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

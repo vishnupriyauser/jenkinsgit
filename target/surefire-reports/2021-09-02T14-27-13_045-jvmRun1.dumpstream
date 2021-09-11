@@ -1,0 +1,65 @@
+# Created at 2021-09-02T14:29:02.744
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2021-09-02T14:29:03.118
+Unexpected IOException with stream: refridgerator
+
+
+# Created at 2021-09-02T14:29:03.120
+Unexpected IOException with stream: mobile
+
+
+# Created at 2021-09-02T14:29:03.121
+Unexpected IOException with stream: smarttv
+
+
+# Created at 2021-09-02T14:29:03.125
+Unexpected IOException with stream: footwear
+
+
+# Created at 2021-09-02T14:29:03.127
+Unexpected IOException with stream: utensils
+
+
+# Created at 2021-09-02T14:29:03.134
+Unexpected IOException: 5,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),com.amazon.runner.Tests,null,null
+
+
+# Created at 2021-09-02T14:29:16.264
+Unexpected IOException: 6,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),null,null,null
+
+
+# Created at 2021-09-02T14:29:16.265
+Unexpected IOException: 5,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),com.amazon.runner.Tests,null,null
+
+
+# Created at 2021-09-02T14:29:26.164
+Unexpected IOException: 6,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),null,null,null
+
+
+# Created at 2021-09-02T14:29:26.165
+Unexpected IOException: 5,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),com.amazon.runner.Tests,null,null
+
+
+# Created at 2021-09-02T14:29:32.061
+Unexpected IOException: 6,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),null,null,null
+
+
+# Created at 2021-09-02T14:29:32.063
+Unexpected IOException: 5,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),com.amazon.runner.Tests,null,null
+
+
+# Created at 2021-09-02T14:29:41.391
+Unexpected IOException: 6,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),null,null,null
+
+
+# Created at 2021-09-02T14:29:41.391
+Unexpected IOException: 5,1,com.amazon.runner.Tests,searchproduct(com.amazon.runner.Tests),com.amazon.runner.Tests,null,null
+
+
